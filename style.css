@@ -10,6 +10,10 @@ body {
  font-family: fantasy;   
 }
 body {
- padding-right: 5em;
+ padding-left: 10px;
+ padding-right: 5px;
+ padding-top: 5px;
+ padding-bottom: 10px;
 }
+
 
